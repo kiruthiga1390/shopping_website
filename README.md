@@ -5,16 +5,16 @@ at backend.  Triggers, Views, Stored Procedures,Functions are created in MySQL. 
 database is created in AWS (RDS) and whole application is also deployed in AWS.
 
 ## Website
-<img src="images/login.png"
+<img src="WebContent/images/login.png"
      alt="Login Page"
      style="float: left; margin-right: 10px;" />
-<img src="images/home.png"
+<img src="WebContent/images/home.png"
      alt="Home Page"
      style="float: left; margin-right: 10px;" />
-<img src="images/shoe.png"
+<img src="WebContent/images/shoe.png"
      alt="Shop Page"
      style="float: left; margin-right: 10px;" />
-<img src="images/order.png"
+<img src="WebContent/images/order.png"
      alt="Order Page"
      style="float: left; margin-right: 10px;" />
 
